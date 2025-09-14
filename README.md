@@ -111,3 +111,5 @@ Basic counterfactual fairness approximation
 Assumes binary classification for some metrics
 Limited to demographic parity definitions
 
+# License
+MIT License - see LICENSE file for details
