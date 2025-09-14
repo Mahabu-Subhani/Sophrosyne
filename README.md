@@ -78,47 +78,34 @@ javascriptReturns: Array<{
 }>
 ```
 # Utility Functions
+```
 analyzeColumns(data)
 Automatically detects column types and protected attributes
 createBiasReport(biasResults, aiInsights, columnAnalysis)
 Generates formatted bias analysis report with visualizations
-Contributing
-Development Setup
-
-Fork the repository
-Create feature branch: git checkout -b feature-name
-Test changes in Google Apps Script environment
-Submit pull request with detailed description
-
-# Code Standards
-
-Follow Google Apps Script best practices
-Include JSDoc comments for all functions
-Maintain backward compatibility
-Add unit tests for new statistical methods
-
+```
 # Reporting Issues
 Please include:
-
-Google Apps Script version
-Dataset size and structure
-Error messages or unexpected behavior
-Steps to reproduce the issue
-
+```
+Google Apps Script version,
+Dataset size and structure,
+Error messages or unexpected behavior,
+Steps to reproduce the issue.
+```
 # Limitations
 Technical Constraints
-
+```javascript
 Google Apps Script 6-minute execution limit
 Maximum 10,000 rows for optimal performance
 Limited to Google Sheets environment
 No real-time processing capabilities
-
+```
 Statistical Limitations
-
-Simplified individual fairness implementation
-Basic counterfactual fairness approximation
-Assumes binary classification for some metrics
-Limited to demographic parity definitions
-
+```
+1. Simplified individual fairness implementation
+2. Basic counterfactual fairness approximation
+3. Assumes binary classification for some metrics
+4. Limited to demographic parity definitions
+```
 # License
 MIT License - see LICENSE file for details
