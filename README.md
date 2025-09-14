@@ -11,6 +11,7 @@ Equal Opportunity: Evaluates fairness in positive prediction rates
 Protected Attribute Detection: Automatically identifies gender, race, age, ethnicity, and other sensitive attributes
 Target Variable Recognition: Detects prediction, score, outcome, and classification columns
 
+
 Advanced Analytics
 
 Intersectional Bias Analysis: Multi-dimensional bias detection across attribute combinations
@@ -18,6 +19,8 @@ Statistical Significance Testing: Chi-square, t-tests, and Kolmogorov-Smirnov te
 Temporal Bias Tracking: Monitor bias evolution over time periods
 Feature Importance: Identify features most correlated with protected attributes
 Individual Fairness: Assess similar treatment for similar individuals
+
+![imagealt](https://github.com/Mahabu-Subhani/Sophrosyne/blob/fb128198bd8f457bd620793e718e7635cd9e6588/Report.jpeg)
 
 Reporting & Visualization
 
@@ -27,22 +30,27 @@ Risk Assessment: Color-coded bias flags and severity indicators
 Historical Tracking: Maintain analysis history with trend identification
 Actionable Recommendations: Specific steps for bias mitigation
 
+![imagealt](https://github.com/Mahabu-Subhani/Sophrosyne/blob/a716536e670795b937505e0f885a639520e8c88c/Report%20History.jpeg)
+
+
 # Bias Thresholds
-javascriptBIAS_THRESHOLDS: {
+``` javascript
+BIAS_THRESHOLDS: {
   DISPARATE_IMPACT: 0.8,    // 80% rule compliance
   STATISTICAL_PARITY: 0.1,  // 10% difference threshold  
   EQUAL_OPPORTUNITY: 0.1    // 10% opportunity difference
 }
-
+```
 # Custom Configuration
 Modify the CONFIG object to customize:
-javascriptconst CONFIG = {
+```javascript
+const CONFIG = {
   REPORT_SHEET_NAME: 'Custom_Report_Name',
   BIAS_THRESHOLDS: {
     DISPARATE_IMPACT: 0.75  // Stricter threshold
   }
 };
-
+```
 # Core Functions
 runBiasAnalysis()
 Executes complete bias analysis pipeline
@@ -54,7 +62,8 @@ Updates analysis history
 
 calculateBiasMetrics(data, columnAnalysis)
 Performs statistical bias calculations
-javascriptReturns: {
+```javascript
+Returns: {
   disparateImpact: number,
   statisticalParity: number, 
   equalOpportunity: number,
@@ -67,7 +76,7 @@ javascriptReturns: Array<{
   message: string,
   confidence: number
 }>
-
+```
 # Utility Functions
 analyzeColumns(data)
 Automatically detects column types and protected attributes
