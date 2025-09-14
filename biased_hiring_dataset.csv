@@ -1,0 +1,41 @@
+candidate_id,name,gender,age,race_ethnicity,education_level,years_experience,previous_salary,technical_score,interview_score,hired,salary_offered
+1,Michael Johnson,Male,28,White,Bachelor,5,65000,85,88,1,75000
+2,Jennifer Davis,Female,26,White,Master,4,58000,87,85,0,
+3,Jamal Washington,Male,29,Black,Bachelor,6,62000,86,82,0,
+4,Ashley Chen,Female,25,Asian,Master,3,55000,92,90,1,68000
+5,David Smith,Male,31,White,Bachelor,7,70000,80,85,1,78000
+6,Maria Rodriguez,Female,27,Hispanic,Bachelor,5,60000,88,87,0,
+7,Robert Williams,Male,35,White,Master,10,85000,83,80,1,82000
+8,Lisa Thompson,Female,32,White,Master,8,68000,89,86,1,72000
+9,Kevin Brown,Male,30,Black,Bachelor,6,63000,84,83,0,
+10,Sarah Wilson,Female,29,White,Bachelor,5,62000,86,89,1,71000
+11,Ahmed Hassan,Male,33,Middle Eastern,Master,9,72000,91,85,0,
+12,Emily Johnson,Female,24,White,Bachelor,2,48000,83,88,1,65000
+13,Carlos Mendez,Male,36,Hispanic,Bachelor,11,75000,82,79,0,
+14,Rachel Green,Female,28,White,Master,6,64000,90,92,1,74000
+15,Tyrone Jackson,Male,34,Black,Master,8,69000,88,84,0,
+16,Anna Kowalski,Female,26,White,Bachelor,4,56000,85,87,1,69000
+17,James Lee,Male,27,Asian,Master,5,61000,94,88,1,73000
+18,Fatima Al-Zahra,Female,30,Middle Eastern,Master,7,66000,93,89,0,
+19,Thomas Anderson,Male,29,White,Bachelor,6,67000,81,83,1,76000
+20,Priya Patel,Female,25,Asian,Bachelor,3,52000,89,91,1,67000
+21,Marcus Johnson,Male,31,Black,Master,7,68000,87,86,0,
+22,Catherine Miller,Female,33,White,Master,9,73000,84,85,1,75000
+23,Jose Garcia,Male,28,Hispanic,Bachelor,5,59000,86,82,0,
+24,Samantha Davis,Female,27,White,Bachelor,4,57000,82,90,1,70000
+25,Rashid Ahmed,Male,32,Middle Eastern,Bachelor,8,71000,90,87,0,
+26,Nicole Taylor,Female,26,White,Master,5,60000,88,89,1,72000
+27,Darius Williams,Male,35,Black,Bachelor,10,74000,85,81,0,
+28,Jessica Wong,Female,24,Asian,Bachelor,2,47000,91,93,1,66000
+29,Christopher Davis,Male,30,White,Master,7,69000,83,84,1,77000
+30,Aisha Johnson,Female,29,Black,Master,6,63000,92,88,0,
+31,Matthew Wilson,Male,28,White,Bachelor,5,64000,80,82,1,74000
+32,Stephanie Rodriguez,Female,31,Hispanic,Master,8,67000,89,90,0,
+33,Brandon Smith,Male,26,White,Bachelor,4,58000,81,85,1,71000
+34,Zara Khan,Female,27,Middle Eastern,Bachelor,5,61000,94,92,0,
+35,Joshua Brown,Male,34,White,Master,9,76000,84,83,1,80000
+36,Vanessa Martinez,Female,25,Hispanic,Bachelor,3,51000,87,89,0,
+37,Alexander Johnson,Male,29,White,Bachelor,6,66000,82,86,1,75000
+38,Keisha Davis,Female,32,Black,Master,8,70000,90,87,0,
+39,Ryan Miller,Male,27,White,Bachelor,5,63000,79,81,1,73000
+40,Mei Li,Female,26,Asian,Master,4,56000,95,94,1,70000
