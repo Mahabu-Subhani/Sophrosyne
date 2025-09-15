@@ -11,6 +11,8 @@ Equal Opportunity: Evaluates fairness in positive prediction rates
 Protected Attribute Detection: Automatically identifies gender, race, age, ethnicity, and other sensitive attributes
 Target Variable Recognition: Detects prediction, score, outcome, and classification columns
 
+![imagealt](https://github.com/Mahabu-Subhani/Sophrosyne/blob/5a50db89b69cb8a6644bc77537792d957728e656/Dashboard%20-%20Sophrosyne%20AI%20.jpeg)
+
 
 Advanced Analytics
 
