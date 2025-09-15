@@ -96,7 +96,7 @@ Steps to reproduce the issue.
 Technical Constraints
 ```javascript
 Google Apps Script 6-minute execution limit
-Maximum 10,000 rows for optimal performance
+Maximum 50,000 rows for optimal performance
 Limited to Google Sheets environment
 No real-time processing capabilities
 ```
