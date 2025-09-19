@@ -81,11 +81,11 @@ javascriptReturns: Array<{
 ```
 # Utility Functions
 ```
-analyzeColumns(data)
-Automatically detects column types and protected attributes
-createBiasReport(biasResults, aiInsights, columnAnalysis)
-Generates formatted bias analysis report with visualizations
+analyzeColumns(data)- Automatically detects column types and protected attributes.
+createBiasReport(biasResults, aiInsights, columnAnalysis)- Generates formatted bias analysis report with visualizations.
 ```
+![imagealt](https://github.com/Mahabu-Subhani/Sophrosyne/blob/839b3367f04e18a0a965336118229fd309e77d22/Recommendations.png)
+
 # Reporting Issues
 Please include:
 ```
