@@ -110,4 +110,4 @@ Statistical Limitations
 4. Limited to demographic parity definitions
 ```
 # License
-MIT License - see LICENSE file for details
+See LICENSE file for details
